@@ -1,2 +1,9 @@
 # QA-Tester-s-AI-Prompt-Engineering
-To move from a "one-time prompt" to a Reusable Tool, you need what’s called a System Prompt or a Master Template.
+How to use this as a "Tool":
+Whenever you have a new task at work, follow these steps:
+
+Open Gemini/ChatGPT.
+
+Paste the entire block above.
+
+Replace [PASTE YOUR FEATURE DETAILS HERE] with whatever you are testing (e.g., "A search bar that filters products by price range and category").
